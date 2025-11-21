@@ -1,4 +1,4 @@
-# EInvoiceAPI - InvoiceStatusCheck
+# EInvoice - InvoiceStatusCheck
 InvoiceStatusCheck, e-Fatura durum sorgulama işlemleri için geliştirilmiş bir **.NET Core 8 API** projesidir.  
 Proje **Onion mimarisi** ve **katmanlı mimari** kullanılarak tasarlanmıştır.
 ---
